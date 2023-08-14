@@ -1,1 +1,1 @@
-# ProgrammersOfKetteringBot
+# Programmers Of Kettering Discord Bot
