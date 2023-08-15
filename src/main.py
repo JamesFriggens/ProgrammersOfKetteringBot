@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 
 import requests
 
-load_dotenv()
+load_dotenv('SecretStuff.env')
 
 discord_api_key = os.getenv("DISCORD_TOKEN")
 bluealliance_api_key = os.getenv("BLUEALLIANCE_API_KEY")
